@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1494793721 source:c:\users\je suis une merde.co\desktop\cours fac\s2\projo\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fcntl.h>
+	<set>
+	<iomanip>
+	"route.hpp"
+	"voitures.hpp"
+
+1494793641 c:\users\je suis une merde.co\desktop\cours fac\s2\projo\route.hpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<vector>
+	"voitures.hpp"
+
+1494781600 c:\users\je suis une merde.co\desktop\cours fac\s2\projo\voitures.hpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<sstream>
+	<string.h>
+
+1494793639 source:c:\users\je suis une merde.co\desktop\cours fac\s2\projo\route.cpp
+	"route.hpp"
+	"voitures.hpp"
+
+1494781287 source:c:\users\je suis une merde.co\desktop\cours fac\s2\projo\voitures.cpp
+	"voitures.hpp"
+
